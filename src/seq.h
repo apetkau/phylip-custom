@@ -12,7 +12,7 @@
 #define SEQ_H
 
 #define ebcdic          EBCDIC
-#define MAXNCH          20
+#define MAXNCH          60
 
 /* All of this came over from cons.h    -plc*/ 
 #define OVER              7
